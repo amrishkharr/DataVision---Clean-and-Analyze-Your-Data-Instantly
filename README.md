@@ -38,11 +38,11 @@
 
 DataVision---Clean-and-Analyze-Your-Data-Instantly/
 │
-├── app.py # Main Streamlit app
-├── requirements.txt # Python package dependencies
-├── README.md # Project documentation
-└── .streamlit/
-└── config.toml # UI customization settings
+├── -app.py # Main Streamlit app
+├── -requirements.txt # Python package dependencies
+├── -README.md # Project documentation
+└── -.streamlit/
+└── -config.toml # UI customization settings
 
 
 ---
@@ -62,6 +62,8 @@ pip install -r requirements.txt
 ### 3. Run the App
 
 streamlit run app.py
+
+```
 
 👨‍💻 Author
 Amrishkhar R
