@@ -52,7 +52,7 @@ DataVision---Clean-and-Analyze-Your-Data-Instantly/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/DataVision.git
+git clone https://github.com/amrishkharr/DataVision---Clean-and-Analyze-Your-Data-Instantly.git
 cd DataVision
 
 ### 2. Install Requirements
