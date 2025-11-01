@@ -1,4 +1,4 @@
-# 📊 DataVision
+# 📊 DataVision [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **DataVision** is a user-friendly, interactive web application built with **Streamlit** that helps users automatically clean, explore, and model their CSV data without writing a single line of code. It’s ideal for students, analysts, and professionals who want to perform Exploratory Data Analysis (EDA) and basic machine learning quickly.
 
@@ -37,12 +37,12 @@
 ## 📁 File Structure
 
 DataVision---Clean-and-Analyze-Your-Data-Instantly/
-│
-├── -app.py # Main Streamlit app
-├── -requirements.txt # Python package dependencies
-├── -README.md # Project documentation
-└── -.streamlit/
-└── -config.toml # UI customization settings
+│<br>
+├── -app.py # Main Streamlit app<br>
+├── -requirements.txt # Python package dependencies<br>
+├── -README.md # Project documentation<br>
+└── -.streamlit/<br>
+└── -config.toml # UI customization settings<br>
 
 
 ---
@@ -68,4 +68,5 @@ streamlit run app.py
 👨‍💻 Author
 Amrishkhar R
 GitHub: @amrishkharr
+
 
